@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // List of professions for typing effect
-    const professions = ["Web Developer", "Web Designer", "Graphic Designer", ];
+    const professions = ["Web Developer", "Web Designer", "Graphic Designer", "MERN Developer" ];
     let professionIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
