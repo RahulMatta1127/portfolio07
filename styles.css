@@ -943,3 +943,40 @@ input, textarea {
 
 
 /* ========== contact page ========== */
+.social-media {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.social-media a {
+    margin: 0 15px;
+    font-size: 30px;
+    color: #000;
+    transition: color 0.3s;
+}
+
+.social-media a:hover {
+    color: orange;
+}
+.social-media {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0;
+    background-color:rgb(186, 178, 178); 
+}
+.social-media {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.social-media a {
+    margin: 0 15px;
+    font-size: 28px;
+    color: #000;
+    transition: color 0.3s;
+}
+
+.social-media a:hover {
+    color: orange;
+}
